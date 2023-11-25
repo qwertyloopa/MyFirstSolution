@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySecondConsole", "MySecond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingAndConverting", "ParsingAndConverting\ParsingAndConverting.csproj", "{76B7BE27-F360-465C-81B3-70A6FB16F979}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastTask", "LastTask\LastTask.csproj", "{DD485B23-584D-4751-B916-C9548E9865B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{76B7BE27-F360-465C-81B3-70A6FB16F979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76B7BE27-F360-465C-81B3-70A6FB16F979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76B7BE27-F360-465C-81B3-70A6FB16F979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD485B23-584D-4751-B916-C9548E9865B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD485B23-584D-4751-B916-C9548E9865B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD485B23-584D-4751-B916-C9548E9865B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD485B23-584D-4751-B916-C9548E9865B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
