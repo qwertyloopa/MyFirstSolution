@@ -6,7 +6,7 @@
         {
             int i = 10;
             Console.WriteLine(i);
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

@@ -8,7 +8,7 @@
             byte b = Convert.ToByte(a);
             Console.WriteLine(b);
             Console.WriteLine(a);
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
